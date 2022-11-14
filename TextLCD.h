@@ -1,4 +1,5 @@
 /* mbed TextLCD Library, for a 4-bit LCD based on HD44780
+ * Copyrigth (c) 2022, Renato de Castro Ferreira
  * Copyright (c) 2007-2010, sford, http://mbed.org
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
